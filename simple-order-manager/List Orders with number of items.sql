@@ -1,0 +1,1 @@
+SELECT pp.pedido_id, prod.nome, pp.quantidade, pp.preco FROM Pedido p JOIN Pedido_Produto pp ON p.id = pp.pedido_id JOIN Produto prod ON prod.id = pp.produto_id;
