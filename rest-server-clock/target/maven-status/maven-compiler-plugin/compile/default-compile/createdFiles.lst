@@ -1,0 +1,5 @@
+br\com\rodrigo\restserverclock\RestServerClockApplication.class
+br\com\rodrigo\restserverclock\controller\ClockController.class
+br\com\rodrigo\restserverclock\client\WorldClockClient.class
+br\com\rodrigo\restserverclock\dto\ClockDTO.class
+br\com\rodrigo\restserverclock\dto\WorldClockDTO.class

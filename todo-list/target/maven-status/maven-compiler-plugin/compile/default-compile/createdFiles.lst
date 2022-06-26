@@ -1,0 +1,4 @@
+br\com\rodrigo\todolist\repository\TaskRepository.class
+br\com\rodrigo\todolist\service\TaskService.class
+br\com\rodrigo\todolist\model\Task.class
+br\com\rodrigo\todolist\TodoListApplication.class
