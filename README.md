@@ -96,8 +96,23 @@ Execução do programa:</br>
 
 ## Questão 03 - Compute the area of intersection between two rectangles:
 
+## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/area-intersect-retangles):
 
-NÃO FEITO, AINDA!!!
+- Para executar esta solução via terminal:
+
+1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/area-intersect-retangles/area-intersect-retangles.jar)
+2. Abra o terminal na pasta onde você baixou o arquivo JAR;
+3. Dentro do terminal rode o comando: java -jar rectangles-intersect.jar
+4. O resultado aparecerá no fim do terminal.
+
+</br>
+- Veja as imagens do programa sendo executado:
+
+</br>
+</br>
+
+Execução do programa:</br>
+![Area de Intersect:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/area-intersect-retangles/Screen/Rodando.png)
 
 </br>
 </br>
