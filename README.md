@@ -36,19 +36,106 @@
 
 Validate CNPJ format and check digits:
 
-## Solução:
-
-- A solução deste problema foi baseada em matriz (array de duas dimensões), pois a escada a ser desenhada é uma matriz quadrada cuja metade na diagonal é preenchida pelo caractere * e a outra metade preenchida por espaço em branco.
+## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/cnpj):
 
 - Para executar esta solução via terminal:
 
-1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/desafio-capgemini/raw/master/desafio1/executavel/desafio1.jar)
+1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/cnpj/cnpj.jar)
 2. Abra o terminal na pasta onde você baixou o arquivo JAR;
-3. Dentro do terminal rode o comando: java -jar desafio1.jar
-
+3. Dentro do terminal rode o comando: java -jar cnpj.jar
+4. Digite o CNPJ que desejas verificar! Se desejar verificar outro valor, repita o passo de número 3.
 
 </br>
 </br>
 
 ## Questão 02:
 
+Test if two rectangles intersect
+
+NÃO FEITO, AINDA!!!
+
+</br>
+</br>
+
+## Questão 03:
+
+Compute the area of intersection between two rectangles
+
+NÃO FEITO, AINDA!!!
+
+</br>
+</br>
+
+## Questão 04:
+
+Simple Todo List
+
+## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/todo-list):
+
+- Para executar esta solução via terminal:
+
+1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/todo-list/target/todo-list.jar)
+2. Abra o terminal na pasta onde você baixou o arquivo JAR;
+3. Dentro do terminal rode o comando: java -jar todo-list.jar
+4. Entre na opção 1 para cadastrar atividades, na opção 2 para deletar uma atividade e 5 para sair do programa.
+5. É possível acessar a base de dados acessando http://localhost:8080/h2-console (O terminal deve estar rodando o passo 3) - O password/senha é admim e as outras configurações você pode ver clicando [aqui!]()
+
+</br>
+</br>
+
+## Questão 05:
+
+Rest Client - World Clock
+
+## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/rest-client-clock):
+
+- Para executar esta solução via terminal:
+
+1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/rest-client-clock/target/rest-client-clock.jar)
+2. Abra o terminal na pasta onde você baixou o arquivo JAR;
+3. Dentro do terminal rode o comando: java -jar rest-client-clock.jar
+4. No fim, o terminal exibirá o resultado ao consultar o serviço hospeado em: http://worldclockapi.com/api/json/utc/now
+
+</br>
+</br>
+
+## Questão 06:
+
+Rest Server - World Clock
+
+## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/rest-server-clock):
+
+- Para executar esta solução via terminal:
+
+1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/rest-server-clock/target/rest-server-clock.jar)
+2. Abra o terminal na pasta onde você baixou o arquivo JAR;
+3. Dentro do terminal rode o comando: java -jar rest-server-clock.jar
+4. Com o terminal em execução, abra qualquer navegador e digite localhost:8080/clock
+5. Será exibido o horário atual. O valor foi obtido através do serviço hospeado em: http://worldclockapi.com/api/json/utc/now
+
+</br>
+</br>
+
+## Questão 07:
+
+Entity Relationship Diagram - Simple Order Manager
+
+## Solução - Todos os conteúdos [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/simple-order-manager):
+
+- Baixe/Visualize a modelagem (diagrama) do banco de dados, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/simple-order-manager/Simple%20Order%20Manager.png)
+
+- Baixe/Visualize o script para criar as tabelas e as regras, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/simple-order-manager/Simple%20Order%20Manager%20-%20DDL.sql)
+
+- Baixe/Visualize o script para listar os pedidos com seus itens (conteúdo extra), clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/simple-order-manager/List%20Orders%20with%20number%20of%20items.sql)
+
+</br>
+</br>
+
+## Questão 08:
+
+UX - Prototype (Optional - Designers / frontend developers only)
+
+- Estou concorrendo a uma vaga Backend, logo não realizei esse desafio.
+
+</br>
+</br>
