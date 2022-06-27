@@ -49,6 +49,7 @@ Validate CNPJ format and check digits:
 - Veja as imagens do programa sendo executado:
 
 </br>
+</br>
 
 CNPJ formatado Correto:</br>
 ![CNPJ formatado Correto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Ok.png)
@@ -105,7 +106,7 @@ Simple Todo List
 
 </br>
 - Veja as imagens do programa sendo executado:
-
+</br>
 </br>
 
 Executando a aplicação:</br>
@@ -151,6 +152,7 @@ Rest Client - World Clock
 - Veja as imagens do programa sendo executado:
 
 </br>
+</br>
 
 Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-client-clock/screen/Executando%20Programa.png)
@@ -173,8 +175,9 @@ Rest Server - World Clock
 5. Será exibido o horário atual. O valor foi obtido através do serviço hospeado em: http://worldclockapi.com/api/json/utc/now
 
 </br>
-- Veja as imagens do programa sendo executado:
+-Veja as imagens do programa sendo executado:
 
+</br>
 </br>
 
 Executando a aplicação:</br>
