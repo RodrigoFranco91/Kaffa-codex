@@ -78,7 +78,7 @@ Simple Todo List
 2. Abra o terminal na pasta onde você baixou o arquivo JAR;
 3. Dentro do terminal rode o comando: java -jar todo-list.jar
 4. Entre na opção 1 para cadastrar atividades, na opção 2 para deletar uma atividade e 5 para sair do programa.
-5. É possível acessar a base de dados acessando http://localhost:8080/h2-console (O terminal deve estar rodando o passo 3) - O password/senha é admim e as outras configurações você pode ver clicando [aqui!]()
+5. É possível acessar a base de dados acessando http://localhost:8080/h2-console (O terminal deve estar rodando o passo 3) - O password/senha é admin e as outras configurações você pode ver aqui ![Configuração H2:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/Acesso%20H2.png)
 
 </br>
 </br>
