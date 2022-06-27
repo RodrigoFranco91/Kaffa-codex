@@ -46,6 +46,23 @@ Validate CNPJ format and check digits:
 4. Digite o CNPJ que desejas verificar! Se desejar verificar outro valor, repita o passo de número 3.
 
 </br>
+- Veja as imagens do programa sendo executado:
+
+![CNPJ formatado Correto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Ok.png)
+
+</br>
+
+![CNPJ numeral Correto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/ok2.png)
+
+</br>
+
+![CNPJ Incorreto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Erro.png)
+
+</br>
+
+![CNPJ Incorreto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Erro2.png)
+
+</br>
 </br>
 
 ## Questão 02:
@@ -81,6 +98,27 @@ Simple Todo List
 5. É possível acessar a base de dados acessando http://localhost:8080/h2-console (O terminal deve estar rodando o passo 3) - O password/senha é admin e as outras configurações você pode ver aqui ![Configuração H2:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/Acesso%20H2.png)
 
 </br>
+- Veja as imagens do programa sendo executado:
+
+![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Executando.png)
+
+</br>
+
+![Cadastrando uma Task:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Cadastrando%20uma%20Atividade.png)
+
+</br>
+
+![Verificando o cadastro na base de dados:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Base%20de%20Dados%20H2.png)
+
+</br>
+
+![Deletando uma Task:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Deletando%20Atividade%201.png)
+
+</br>
+
+![Saindo da aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Saindo.png)
+
+</br>
 </br>
 
 ## Questão 05:
@@ -95,6 +133,11 @@ Rest Client - World Clock
 2. Abra o terminal na pasta onde você baixou o arquivo JAR;
 3. Dentro do terminal rode o comando: java -jar rest-client-clock.jar
 4. No fim, o terminal exibirá o resultado ao consultar o serviço hospeado em: http://worldclockapi.com/api/json/utc/now
+
+</br>
+- Veja as imagens do programa sendo executado:
+
+![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-client-clock/screen/Executando%20Programa.png)
 
 </br>
 </br>
@@ -112,6 +155,17 @@ Rest Server - World Clock
 3. Dentro do terminal rode o comando: java -jar rest-server-clock.jar
 4. Com o terminal em execução, abra qualquer navegador e digite localhost:8080/clock
 5. Será exibido o horário atual. O valor foi obtido através do serviço hospeado em: http://worldclockapi.com/api/json/utc/now
+
+</br>
+- Veja as imagens do programa sendo executado:
+
+![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-server-clock/screen/Executando%20Programa.png)
+
+</br>
+
+- Veja as imagens do programa sendo executado:
+
+![Acessando resultado via Navegador:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-server-clock/screen/Resultado.png)
 
 </br>
 </br>
