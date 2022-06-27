@@ -46,7 +46,7 @@ Validate CNPJ format and check digits:
 4. Digite o CNPJ que desejas verificar! Se desejar verificar outro valor, repita o passo de número 3.
 
 </br>
-- Veja as imagens do programa sendo executado:
+- Veja as imagens do programa sendo executado:</br>
 
 CNPJ formatado Correto:</br>
 ![CNPJ formatado Correto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Ok.png)
@@ -102,7 +102,7 @@ Simple Todo List
 5. É possível acessar a base de dados acessando http://localhost:8080/h2-console (O terminal deve estar rodando o passo 3) - O password/senha é admin e as outras configurações você pode ver aqui: ![Configuração H2:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/Acesso%20H2.png)
 
 </br>
-- Veja as imagens do programa sendo executado:
+- Veja as imagens do programa sendo executado:</br>
 
 Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Executando.png)
@@ -144,7 +144,7 @@ Rest Client - World Clock
 4. No fim, o terminal exibirá o resultado ao consultar o serviço hospeado em: http://worldclockapi.com/api/json/utc/now
 
 </br>
-- Veja as imagens do programa sendo executado:
+- Veja as imagens do programa sendo executado:</br>
 
 Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-client-clock/screen/Executando%20Programa.png)
@@ -167,14 +167,12 @@ Rest Server - World Clock
 5. Será exibido o horário atual. O valor foi obtido através do serviço hospeado em: http://worldclockapi.com/api/json/utc/now
 
 </br>
-- Veja as imagens do programa sendo executado:
+- Veja as imagens do programa sendo executado:</br>
 
 Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-server-clock/screen/Executando%20Programa.png)
 
 </br>
-
-- Veja as imagens do programa sendo executado:
 
 Acessando resultado via Navegador:</br>
 ![Acessando resultado via Navegador:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-server-clock/screen/Resultado.png)
