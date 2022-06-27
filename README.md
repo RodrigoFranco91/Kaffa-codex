@@ -32,9 +32,8 @@
 </br>
 </br>
 
-## Questão 01:
+## Questão 01 - Validate CNPJ format and check digits:
 
-Validate CNPJ format and check digits:
 
 ## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/cnpj):
 
@@ -72,27 +71,24 @@ CNPJ Incorreto:</br>
 </br>
 </br>
 
-## Questão 02:
+## Questão 02 - Test if two rectangles intersect:
 
-Test if two rectangles intersect
-
-NÃO FEITO, AINDA!!!
-
-</br>
-</br>
-
-## Questão 03:
-
-Compute the area of intersection between two rectangles
 
 NÃO FEITO, AINDA!!!
 
 </br>
 </br>
 
-## Questão 04:
+## Questão 03 - Compute the area of intersection between two rectangles:
 
-Simple Todo List
+
+NÃO FEITO, AINDA!!!
+
+</br>
+</br>
+
+## Questão 04 - Simple Todo List:
+
 
 ## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/todo-list):
 
@@ -135,9 +131,8 @@ Saindo da aplicação:</br>
 </br>
 </br>
 
-## Questão 05:
+## Questão 05 - Rest Client - World Clock:
 
-Rest Client - World Clock
 
 ## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/rest-client-clock):
 
@@ -160,9 +155,8 @@ Executando a aplicação:</br>
 </br>
 </br>
 
-## Questão 06:
+## Questão 06 - Rest Server - World Clock:
 
-Rest Server - World Clock
 
 ## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/rest-server-clock):
 
@@ -191,9 +185,8 @@ Acessando resultado via Navegador:</br>
 </br>
 </br>
 
-## Questão 07:
+## Questão 07 - Entity Relationship Diagram - Simple Order Manager:
 
-Entity Relationship Diagram - Simple Order Manager
 
 ## Solução - Todos os conteúdos [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/simple-order-manager):
 
@@ -206,9 +199,8 @@ Entity Relationship Diagram - Simple Order Manager
 </br>
 </br>
 
-## Questão 08:
+## Questão 08 - UX - Prototype (Optional - Designers / frontend developers only):
 
-UX - Prototype (Optional - Designers / frontend developers only)
 
 - Estou concorrendo a uma vaga Backend, logo não realizei esse desafio.
 
