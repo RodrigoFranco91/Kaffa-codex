@@ -48,22 +48,22 @@ Validate CNPJ format and check digits:
 </br>
 - Veja as imagens do programa sendo executado:
 
-CNPJ formatado Correto:
+CNPJ formatado Correto:</br>
 ![CNPJ formatado Correto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Ok.png)
 
 </br>
 
-CNPJ numeral Correto:
+CNPJ numeral Correto:</br>
 ![CNPJ numeral Correto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/ok2.png)
 
 </br>
 
-CNPJ Incorreto:
+CNPJ Incorreto:</br>
 ![CNPJ Incorreto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Erro.png)
 
 </br>
 
-CNPJ Incorreto:
+CNPJ Incorreto:</br>
 ![CNPJ Incorreto:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/cnpj/screen/Erro2.png)
 
 </br>
@@ -104,27 +104,27 @@ Simple Todo List
 </br>
 - Veja as imagens do programa sendo executado:
 
-Executando a aplicação:
+Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Executando.png)
 
 </br>
 
-Cadastrando uma Task:
+Cadastrando uma Task:</br>
 ![Cadastrando uma Task:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Cadastrando%20uma%20Atividade.png)
 
 </br>
 
-Verificando o cadastro na base de dados:
+Verificando o cadastro na base de dados:</br>
 ![Verificando o cadastro na base de dados:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Base%20de%20Dados%20H2.png)
 
 </br>
 
-Deletando uma Task:
+Deletando uma Task:</br>
 ![Deletando uma Task:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Deletando%20Atividade%201.png)
 
 </br>
 
-Saindo da aplicação:
+Saindo da aplicação:</br>
 ![Saindo da aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/todo-list/screen/Saindo.png)
 
 </br>
@@ -146,7 +146,7 @@ Rest Client - World Clock
 </br>
 - Veja as imagens do programa sendo executado:
 
-Executando a aplicação:
+Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-client-clock/screen/Executando%20Programa.png)
 
 </br>
@@ -169,14 +169,14 @@ Rest Server - World Clock
 </br>
 - Veja as imagens do programa sendo executado:
 
-Executando a aplicação:
+Executando a aplicação:</br>
 ![Executando a aplicação:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-server-clock/screen/Executando%20Programa.png)
 
 </br>
 
 - Veja as imagens do programa sendo executado:
 
-Acessando resultado via Navegador:
+Acessando resultado via Navegador:</br>
 ![Acessando resultado via Navegador:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rest-server-clock/screen/Resultado.png)
 
 </br>
