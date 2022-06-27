@@ -73,8 +73,23 @@ CNPJ Incorreto:</br>
 
 ## Questão 02 - Test if two rectangles intersect:
 
+## Solução - Código fonte [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/tree/master/rectangles-intersect):
 
-NÃO FEITO, AINDA!!!
+- Para executar esta solução via terminal:
+
+1. Baixe o arquivo JAR, clicando [aqui!](https://github.com/RodrigoFranco91/Kaffa-codex/raw/master/rectangles-intersect/rectangles-intersect.jar)
+2. Abra o terminal na pasta onde você baixou o arquivo JAR;
+3. Dentro do terminal rode o comando: java -jar rectangles-intersect.jar
+4. O resultado aparecerá no fim do terminal.
+
+</br>
+- Veja as imagens do programa sendo executado:
+
+</br>
+</br>
+
+Execução do programa:</br>
+![Intersect?:](https://github.com/RodrigoFranco91/Kaffa-codex/blob/master/rectangles-intersect/screen/Rodando.png)
 
 </br>
 </br>
